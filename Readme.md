@@ -2,7 +2,7 @@
 
 ##  Project Overview
 
-This project explores the prediction of popularity for food-related tweets using Machine Learning techniques. The objective is to identify the factors that influence user engagement on social media by combining textual content, sentiment analysis, and user influence metrics.
+This project explores the prediction of popularity for food-related tweets using Machine Learning techniques. The objective is to identify the factors that influence user engagement on social media.
 
 Rather than relying solely on likes, a custom popularity score was created to better represent overall engagement.
 
@@ -31,7 +31,7 @@ The main goals of this project are:
 
 ##  Dataset
 
-The project uses the **Food Tweets Dataset**, containing approximately **50,000 food-related tweets**. The dataset includes tweet information, engagement metrics, user statistics, and media-related attributes. 
+The project uses the **Food Tweets Dataset**, containing approximately **50,000 food-related tweets**. The dataset includes tweet information, engagement metrics, user statistics, and media-related data.
 
 ### Main Features
 
@@ -137,7 +137,7 @@ An ensemble learning algorithm capable of modeling complex and non-linear relati
 ### Screenshot 1 - Distribution of Likes
 
 <p align="center">
-  <img src="images/figure3.png"  width="750">
+  <img src="images/figure3.PNG"  width="750">
 </p>
 
 ---
@@ -145,7 +145,7 @@ An ensemble learning algorithm capable of modeling complex and non-linear relati
 ### Screenshot 2 - Followers vs Popularity
 
 <p align="center">
-  <img src="images/figure2.png"  width="750">
+  <img src="images/figure2.PNG"  width="750">
 </p>
 
 ---
@@ -153,7 +153,7 @@ An ensemble learning algorithm capable of modeling complex and non-linear relati
 ### Screenshot 3 - Sentiment Distribution
 
 <p align="center">
-  <img src="images/figure1.png"  width="750">
+  <img src="images/figure1.PNG"  width="750">
 </p>
 
 ---
