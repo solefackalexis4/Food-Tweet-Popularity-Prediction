@@ -221,22 +221,18 @@ From the experiments, the Random Forest Regressor achieved better performance th
 ```text
 Food-Tweet-Popularity-Prediction/
 │
-├── data/
-│   └── Food_tweets.csv
+├── Food_tweets.csv
 │
 ├── images/
-│   ├── likes_distribution.png
-│   ├── followers_vs_popularity.png
-│   └── sentiment_distribution.png
+│   ├── figure1.PNG
+│   ├── figure2.PNG
+│   └── figure3.PNG
 │
-├── notebooks/
-│   └── Food_Tweet_Popularity.ipynb
+├── Food_tweet_popularity.ipynb
 │
-├── src/
-│   └── popularity_prediction.py
+├── ALEXIS_JOSE_GUERIN_ANANGMO_SOLFACK_ML_project_report.pdf
 │
-├── README.md
-└── requirements.txt
+└── Readme.md
 ```
 
 ---
