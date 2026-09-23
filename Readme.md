@@ -184,8 +184,8 @@ The models were compared using:
 
 | Model | RMSE | R² Score |
 |---------|---------|---------|
-| Linear Regression | Your Result | Your Result |
-| Random Forest | Your Result | Your Result |
+| Linear Regression |  |  |
+| Random Forest |  |  |
 
 From the experiments, the Random Forest Regressor achieved better performance than Linear Regression, demonstrating its ability to capture complex patterns within the data. 
 
